@@ -1,6 +1,6 @@
 # Growloc
 
-Minimal scaffold for an AI-powered plant monitoring web app: Next.js (App Router) frontend with API routes and a separate FastAPI inference service. ML models are mocked; plug real weights into `ai-service` without changing the overall flow.
+Minimal scaffold for an AI-powered plant monitoring web app: Next.js (App Router) frontend with API routes and a separate FastAPI inference service. ML models are mocked; plug real weights into `ai-service` without changing the overall flow. You can checkout all the models that would potentially be part of the pipeline form here: https://drive.google.com/drive/folders/1wJeO0vh_1X3nj5cwiEx8rvqL7z1I5GzW?usp=sharing
 
 ## Layout
 
